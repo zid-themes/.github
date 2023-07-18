@@ -5,6 +5,7 @@ Hello visitor of the Github Organization. You shouldn't see any of the repos her
 ## Zid Dummy Store
 
 <https://yi0nau.zid.store/>
+<https://zidteam.notion.site/zidteam/Zid-Theme-Documentation-fa5854836d0b448aa8600c8522d63d90>
 
 ## Using
 
