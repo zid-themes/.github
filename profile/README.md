@@ -1,5 +1,7 @@
 # Main Stuff
 
+Hello visitor of the Github Organization. You shouldn't see any of the repos here. This organiation is created to host themes developed by [6 Degrees Technologies](https://www.6degrees.com.sa).
+
 <https://yi0nau.zid.store/>
 
 ## Using
